@@ -31,7 +31,7 @@ def rename_sub_dir_files(folder):
 
 lib = 'C:\\Users\\tejas\\Documents\\MEGA\\library - copy'
 
-rename_current_dir(lib)
+# rename_current_dir(lib)
 # rename_sub_dir(lib)
 # rename_current_dir_files(lib)
 # rename_sub_dir_files(lib)
