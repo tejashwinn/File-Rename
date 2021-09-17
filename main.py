@@ -71,14 +71,14 @@ def renameFunc(argc):
 
 def helpFunc():
     print('q: quit')
-    print('f: folder in different location')
+    print('f: folder in different location(Not yet developed)')
     print('s: swap characters')
     print('n: numerical naming')
     print('r: random num naming')
     print('a: random alpha naming')
     print('ra: random alpha-num naming')
     print('c: custom format')
-    print('su: to rename subdirectories')
+    print('S: to rename subdirectories')
 
 
 # start
